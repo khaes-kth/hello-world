@@ -1,0 +1,5 @@
+name: Auto tester
+
+on:
+  pull_request:
+    branches: [main]
